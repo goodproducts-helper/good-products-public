@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Good Products Store</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body { font-family: Arial, sans-serif; margin: 2rem; background: #f8f8f8; }
+        header { background: #222; color: white; padding: 1rem; text-align: center; }
+        main { margin-top: 2rem; text-align: center; }
+        .product { background: white; padding: 1rem; margin: 1rem auto; width: 90%; max-width: 400px; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Good Products</h1>
+    </header>
+    <main>
+        <div class="product">
+            <h2>Gym Stringer Vest</h2>
+            <p>High quality racer Y back vest for workout sessions.</p>
+            <strong>Price: ₹499</strong>
+        </div>
+        <div class="product">
+            <h2>Star Master Lamp</h2>
+            <p>Dream rotating projection lamp, ideal for your room decor.</p>
+            <strong>Price: ₹799</strong>
+        </div>
+    </main>
+</body>
+</html>
